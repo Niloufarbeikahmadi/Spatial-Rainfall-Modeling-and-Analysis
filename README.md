@@ -41,14 +41,13 @@ rainfall_interpolation/
 ├── main.py                 # Main script that orchestrates the workflow.
 ├── README.md               # This file.
 └── requirements.txt        # Python package requirements.
+```
 
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/rainfall_interpolation.git
-cd rainfall_interpolation
-```
-   
+   git clone https://github.com/yourusername/rainfall_interpolation.git cd rainfall_interpolation
+   ```
 2. Install Dependencies
 
 It is recommended to use a virtual environment. Then install the required packages:  
